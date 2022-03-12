@@ -1,0 +1,60 @@
+/Thoughtworks - Vapasi Accelerator Trainer
+
+SOLID
+The SOLID Principles 
+
+
+TDD
+Testing strategy 
+Test Driven Development
+Prepare for testing | IntelliJ IDEA 
+IntelliJ IDEA. Writing Tests with JUnit 5 
+
+OOP
+Object Oriented Design
+
+Pair Programming
+Effective Navigation in Pair Programming
+Remote Pairing 101
+7 Principles
+
+Naming Conventions 
+7 Popular Strategies: Unit Test Naming Conventions - DZone Agile
+
+Shortcuts
+Intellij_basic_shortcuts_prime_number_brinda_yash.mp4
+Zoom Shortcuts 
+Vim cheatsheet 
+ 
+Gradle
+gradleProjectCreation_Yash.mp4 
+
+Processing
+5 - What is Processing.mp4 
+6 - installing processing.mp4
+7 - processing programming model.mp4 
+8 - challenge for you.mp4 
+
+GIT
+Working with Protected Branches 
+
+Command Line
+https://explainshell.com 
+16.4. Text Processing Commands 
+
+Design Rules
+Domain Driven Design and Domain Modeling 
+chcordova/design-patterns-head-first-book - Java 8 Examples 
+Design Pattern Interview Questions - YouTube 
+Abstract Factory Design Pattern 
+Factory Design Pattern 
+Yagni 
+BeckDesignRules 
+HeadFirstDesignPatterns.pdf 
+
+Learn Programming Languages
+Java-Books/Head First Java.pdf at master 
+Spring Framework - YouTube 
+https://learnpythonthehardway.org/book/appendixa.html
+
+
